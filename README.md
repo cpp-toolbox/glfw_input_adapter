@@ -1,0 +1,1 @@
+# glfw_input_adapter
